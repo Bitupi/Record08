@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Ross",
+  "age": 21,
+  "address": {
+    "street": "Paoj Terrace",
+    "city": "Norucpov",
+    "state": "PA",
+    "zip": "41871"
+  },
+  "contact": {
+    "phone": "(577) 296-7151",
+    "servicePhone": "800571446"
+  },
+  "birthday": "1971-03-03T01:50:40.119Z",
+  "ip": "3.254.175.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Za niugefaj picesta til ceebodid mo pesiagi pa pip lahagdi si buwa. Gihinav cuhugzos teli vilfetka jijfopros ocfe tefoplo nikrazo lonobhav isabawzo esa sugija. Jesvitcez fu pu ezkez no hasikicu aw winpuc vi fik bilvi vafuza ri.",
+    "bio": "Rawom vif bimheluw ricuzi fefbukav ufa wuvhawlac sega zuvus ro jedjokid izoec nufke ovuhpuc. Zijzi ru egwaveh hejbi retdobvi zabnu menifuc tumni de saevaah gahi rom jallosdaz depbinet vic. Waf jahion lojfo movo pi piemasur sepomaj om divactu baaloger leswajru ulufiise ippa. Hidmad nawuk na bovomso mig jojadanu ege kena juv dih cifmodzu no."
+  },
+  "apiKey": "4bf07939f388b8be1fe890a8075b31db7485f26bd7e43a53d7a2a27ea695cfae",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}

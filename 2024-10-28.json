@@ -1,0 +1,26 @@
+{
+  "name": "Sara Medina",
+  "age": 37,
+  "address": {
+    "street": "Fuvapi Lane",
+    "city": "Zuingo",
+    "state": "LA",
+    "zip": "50622"
+  },
+  "contact": {
+    "phone": "(371) 859-9235",
+    "servicePhone": "800487347"
+  },
+  "birthday": "1998-11-17T03:59:25.913Z",
+  "ip": "205.237.126.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuoj bihe metpenu lan son cebap oduujede pavuw jofhakzit no amwofziw diije fom mih roglalnoj di panatti. Mellaz aga uki lewsuh hog rahacoku nalo ri diohe rodhila ak junetev offud dueti badsocev aleuma. Ew wicjuhtu foigihek rir si kaketun secwuhsu wakdowur lolefo eruto corveleg abibet ah ej wer umhep kutsaj la. Awutid ime tepkokef ho ovo rumjehma nawzi nikaf kuso enaoh suuwelu zip vifidepok we ce melorizu.",
+    "bio": "Ponevbav vufetbep roiwa lejcam moganuh litgospi ugkugolo ejuhiedu wojiv cab huhvon ovubiw netuet hufoko vaca. Boza ubdoin bakde se et meba kevjum fem ki citan po kauto temcow cu zufehdub aggo wod. Mavsecfo miesaror uwdutaw supbaen ove vabo nah dowugzo vimki otma tawo wil elroteh ho nuakiabe opohe. Raj udpe daapriv hoj ujmi visibos ok fil kawab for kobcapji usuif motsarus fata. Kolazge ezedeuk godroz onogor licri duv mo ki oce ceg rup jouju."
+  },
+  "apiKey": "fc15dded1ab776dc95abefb618980b7e018d43153cf8a852cd73433166799451",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gertrude Rodriquez",
+  "age": 62,
+  "address": {
+    "street": "Suchoh Grove",
+    "city": "Pihutute",
+    "state": "IA",
+    "zip": "81281"
+  },
+  "contact": {
+    "phone": "(610) 364-9059",
+    "servicePhone": "800321323"
+  },
+  "birthday": "1968-06-06T09:08:03.270Z",
+  "ip": "111.103.122.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Mial zegolje dagugcip ruc ur feplen gutgi gezabpu omem wupojubuc tu lake umilisev. Celti ruvigjoz ge ewe rumwo pivik ninipag vode sa imtivce gakmul vig salek. Huzif fi ved dapop bep upuihbu reb efu zan uvo minej bokow cofeg wa wahla pukli hitew afebef.",
+    "bio": "Vama aha to uhwat do ve rabdop faamidi son hipek hok okcan fimtalu fa gapher. Kub zaib li kabew apcoc cenrokhe gocsow ja wi egocehu web pe ubwura tewuseh. Elaje akueze mik bic pe ijheton vakad defon usa unsugku eltauma ciz dathut."
+  },
+  "apiKey": "cf1a6217d03b8746ba757afa92b1fdb9a59fcd7d4a6576d47d0e2e7b756f4db1",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}

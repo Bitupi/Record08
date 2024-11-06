@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Valdez",
+  "age": 22,
+  "address": {
+    "street": "Ahdi Loop",
+    "city": "Tohripil",
+    "state": "SC",
+    "zip": "64541"
+  },
+  "contact": {
+    "phone": "(241) 998-7323",
+    "servicePhone": "800337497"
+  },
+  "birthday": "1999-12-19T05:26:02.857Z",
+  "ip": "1.17.116.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Bal gel afere ful cemujef batciubo rud ce konki jufbit ceihi jogam. Od juvwehkip betgu ta zo fim jic sofbi benhi depzavlim jufsuswu arijidnaf gap padfefej lefovo zicmotes ar vozog. Fit bejucbim luvraak jenjihlak ikize su jupigfih ujo wed pi simsu ani hesuj ipopome nuhhu fop foosa onkumi.",
+    "bio": "Orwef og san nebawo ovfo irruw kig ze ge cinoke hihawnad lupuma nu ri daf lojefga. Pikiz zepate merworuj bu fes in bedfaani ebrudubo bi ajroep rik samkalo edkepar bavzud mo reg tuwuk. Ganmaj jave bikorak hegkoitu fezdo ri waesuon ho hauv zib ginde emu jeagovuh guicgow megtulzi ifrinjo."
+  },
+  "apiKey": "e24b50108946840c297171bac5c5cb1f111ab6fc7809402a36e3fc11266269a7",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}

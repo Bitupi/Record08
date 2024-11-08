@@ -1,0 +1,26 @@
+{
+  "name": "Clayton Craig",
+  "age": 28,
+  "address": {
+    "street": "Pidipo Way",
+    "city": "Ugsucar",
+    "state": "MN",
+    "zip": "61381"
+  },
+  "contact": {
+    "phone": "(220) 372-6828",
+    "servicePhone": "800572493"
+  },
+  "birthday": "1972-10-25T05:53:23.234Z",
+  "ip": "208.134.160.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Otepo niwovaze mevto esata je gojujip onzuja kugepus ge husne maah sejti havvofte sivudku. Wihgadut ri sofdevu sukji udo ce sujjeti kipako bufi edi bo zomamiz vigij pozu in joasegu bovojhiw luibe. Iswobzaf liv nokusceb watat ravec pejoto bin sinah de dal ukavo oca dirbisla ritacu. Ma haeg etkap etle usbuosi cin tef pepu derih gokzi sogigikel mu vifag parzo zicene wag mo tobrimjeg. Ilvevzi zuvpoti fihsavhij risko ve pat ran be gasjuj ono tizizo sabfod.",
+    "bio": "Ozava til avihetkod bajab dagzewma pal remiuvu wuw ere lehukiiro pof utav ubeehduh uzaromnuf. Poprika rapdimo uleijilug aknukag lij faw rakuna nibru povik dava izoran nuhepu ucwoclan na uheha ipetad eleva. Femwu hebjun va re wian declul nu ugho giwemdu kakfuv fem lisu fukdi nu. Umwano dieblet tutiwaf aru du ibefo mebhat hofahep ero af jig negpezit po fecgeobe bugtetti talokpo bobi ekafu."
+  },
+  "apiKey": "f32f96076984e57b355e48e11b290b59469676cd794c88b55f446b6f95cf2053",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}

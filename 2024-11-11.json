@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Wolfe",
+  "age": 42,
+  "address": {
+    "street": "Merzi Terrace",
+    "city": "Rovcurrez",
+    "state": "OK",
+    "zip": "24557"
+  },
+  "contact": {
+    "phone": "(325) 457-9372",
+    "servicePhone": "800161565"
+  },
+  "birthday": "1979-08-02T02:55:24.220Z",
+  "ip": "117.150.54.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Dooho lanihip biznevi mahiki ropomdod zosum wut wizir va wuc dasmepma duju sak la wonub her atugikiga kaecja. Irmengej hut birmuamo sigro lete befu nudmuug pemzevi sugujdow orvasic nicpiwop sised lun asajcip ladzouk. Belicun jazah wi ujezoas loren tetatak us vujgup wazies gem usupaj fevsinaj submowos nufehke wozaez kombov.",
+    "bio": "Dasuhpac wudohu etpioha ne oceherezo hav cenotu sepilah zut mowawsa vaow dapwa ib ero. Egmi ef wizet hadkog na nogsa zikbote mu po compebdu oze kakno dazamca. Vosga kahak vere wumav sutob rozsan upa itadha zu fina adi luvepka tokejoemi kobo duzdunfo es lepih. Su vanecij uvdivano fus cuti bitim wajbisci holifla suumoab jupicaku mutow la raohti cilune fi ti cikidim parmupvi. Tunmezeb ba suz bi wep sez cu dudu naste labwim aranopla doape bu ohje aju."
+  },
+  "apiKey": "43a97eca72ebe0ecae55b59ff6fefc555e49390e0f3a113f23a218fb18ab3a26",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}

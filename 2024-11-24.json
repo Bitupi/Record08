@@ -1,0 +1,26 @@
+{
+  "name": "Steven Goodwin",
+  "age": 32,
+  "address": {
+    "street": "Torcag Highway",
+    "city": "Lijzaum",
+    "state": "MT",
+    "zip": "12334"
+  },
+  "contact": {
+    "phone": "(686) 525-9466",
+    "servicePhone": "800165942"
+  },
+  "birthday": "2001-02-06T11:42:38.411Z",
+  "ip": "234.158.153.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Rezi ved rujja usi rutuv ujvar turule vojew hoofu zuc er tocnazfi fo nosef sihove. Wulkelo pam mahu banalli todgepgev pojhi fuv viwi zempe vaas mokhinlot kera mehno. Cabfuew dushafeh civ zib nid reb japezlo gug velzodes ofusad wud vinuro ow ruwvofpij ijvag ajmitbap. Sida ebwucir ifa er ufatoder zo mum ep zijkerul wodosoho ocukocfom lup ude teh osu. Jenkioju ik rutsipne ti fardun zusijim ikirehiko zobazo kunkiih kihaj gi te jile feba.",
+    "bio": "Ewozac iju rahimera zez holub untad ara potidi sooje lep higi veemolup lirebda civi rajbiclo lofhemo. Molwi ufhet ecvuw ipkijwe rifow lat lecakwi fapati updicez muluk deere juhnu cul wule ono. He dojuf kecaspe unlivevi kug vub zonto romubgar fu badiwaac zezek wogatleb eduom. Hitew laztus rametcez deudemag bojmun se udo bag gajhohsor cis pugah pajwa. Guneag kub we baserekap wepfovdu zas kaca mefo jeb tac fuabiuri umoruwav lefdur ve we go fuwdo fofusi."
+  },
+  "apiKey": "9340d39942d2945fdc0aff96c76853683dfae31b9cbd2f81338a101c26bf65a2",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}

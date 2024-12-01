@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Romero",
+  "age": 27,
+  "address": {
+    "street": "Dukid Place",
+    "city": "Tegipefo",
+    "state": "AZ",
+    "zip": "68568"
+  },
+  "contact": {
+    "phone": "(643) 224-8279",
+    "servicePhone": "800822823"
+  },
+  "birthday": "2003-05-10T11:56:33.161Z",
+  "ip": "141.24.7.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Ace wajnaljo imvaj modzu lema sablo bi zimwe ketez as recaici gah dicas vadvous welho ow feber gacu. Behkortul da naf reazne zaz odlahu go has uhuwumega duhivu wefode itpe bahibib valazro valkuweg cebzocol avo vuwkupuc. Evrec cirnoim husoc suhpe orucabuj vuvzu mocu poneb doc fobdogla jufkomido vuduhfib zacav kupu na tuhkizi pekna. Gi im mejes jiz zehgas jezonufo ewibifuz tu vihosiiw zo cibuh lacizaz hav lajepsa. Be wivnes objatwes tehic sakibje eb puj uwuhej helloec lugefzi fatus ugouginiz il fi zarvot. Jalis jicgej gihtu tomur ime egokoke hopivufa kusak fuzkom co pu uviufu kugof.",
+    "bio": "Ju bu gomal kagdu huwvod se wacpukel nagu zoeno ribusla es femzaj. Ofuetkab gah sohasuf beva ce koc cun rilin pa bawrif lo zipu fi asocafruj vojig zirzev. Ja ive ow dumwaz ku gouwe lohisdol ag cuh fiaszas lezvah koneh ona esaliwje emu sum."
+  },
+  "apiKey": "6e649e8a7952ca09c24522e20f30078ede23c8621ef768f552bcd4ba02dffc93",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}

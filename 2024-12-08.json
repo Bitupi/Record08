@@ -1,0 +1,26 @@
+{
+  "name": "Chase Alvarado",
+  "age": 52,
+  "address": {
+    "street": "Edfus View",
+    "city": "Porlorog",
+    "state": "CT",
+    "zip": "06131"
+  },
+  "contact": {
+    "phone": "(410) 276-2960",
+    "servicePhone": "800724874"
+  },
+  "birthday": "1981-01-21T02:22:04.185Z",
+  "ip": "214.127.169.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Li nifgun lifo fajarako lacteanu ele comropze muhucge lug usogi pos kaleclig woc jumjanom. Casonli daubav visimor nol ugizke tan huffavga le hihaldoz afbu rojuoc redbe epi vanmota wo nun irwu leve. Og ura wen bofjowu gaopca rabor ome zibob hek bi lawtanwi sow nul janpolih goszupseb wab.",
+    "bio": "Mag hilowpaf fuk linruhil ropsih wac get bammespi niwise keiba uthe vonna kepepcul vu teseope ipfibu. Coffawot ogwiw ka tivnomvar ga te he ojaze gegivko uh wanriltih puwob nit. Hudvatod similvow ipu hivev owinub koc giebe kakima avujo havu duzmig wi nulnaj."
+  },
+  "apiKey": "3f7103e230009fd3636350996e79c88fa478b83bf3e118c6f14f85aee1853f6b",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}

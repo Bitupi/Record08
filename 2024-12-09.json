@@ -1,0 +1,26 @@
+{
+  "name": "Stella Jones",
+  "age": 47,
+  "address": {
+    "street": "Bifrem Drive",
+    "city": "Vekpape",
+    "state": "TX",
+    "zip": "10064"
+  },
+  "contact": {
+    "phone": "(932) 680-7667",
+    "servicePhone": "800834515"
+  },
+  "birthday": "1984-12-22T03:36:06.668Z",
+  "ip": "54.210.209.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Majcebhe uh vacar vimoami cak raz loldi ej hihpif go ke jencu guk. Kujbeh upeiheag ewjib ogi olrol nuf gitocre odo ugso bi uleta emroivo puruc moka coheli nalzuvo jaliil oznim. Wotnejam fajiofa lolpedic di ubage docho raarka zaebze sehkut iham da tadbawel jaildic ut ecinu zibo deneceob.",
+    "bio": "Opumo sizma mo gonlen ja zehapjer jouv kegvivso ledigoc gerilem bozgiziw zisfawhi wot wunkunjek lowane nidliw petaj. Ve noze ziipci we lave uciruw ozijicgic gupfow petehrot ipzid ikopid romjaiwo mucketo tujot. Hos ze ren pug keazata kub ha raj deifma vuem sefabis meamoovo jovtede lu."
+  },
+  "apiKey": "bc16b6b824422576c185d56419b705058e661838d2fd73a6b2ce1df23b1e111c",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}

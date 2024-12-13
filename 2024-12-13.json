@@ -1,0 +1,26 @@
+{
+  "name": "Henry Watkins",
+  "age": 26,
+  "address": {
+    "street": "Summiv Turnpike",
+    "city": "Ehalesti",
+    "state": "MD",
+    "zip": "60041"
+  },
+  "contact": {
+    "phone": "(486) 679-9362",
+    "servicePhone": "800576944"
+  },
+  "birthday": "1987-02-12T07:00:52.826Z",
+  "ip": "63.114.196.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Gethi mi bo vi adi za negeju vukagus daife zesijher cib bun obicafmew la. Ceko tiz ko oheni jazfoh ze bade nuvetvaw ra suhuki ke vatkib diw. Kaz ceh pannuded leficwah jokum mimzusug ruuworo su hihozaisi uv funmezo di gac koc dah.",
+    "bio": "Belaba jojen uwazuso najseve zoozu datcub kuhez rukreja vu mitok po asodew. Okiv unetugsic iz liome gifwibfu cosukzu malhi ulook uf jupi dikun tik ibezeeb ucvol sumod hulub. Zuccutok huplevko kufpuhuc ku us onpaok isoruko ko asifun as lav icipiub fe tehali rup nel."
+  },
+  "apiKey": "87617b9ffdaf0b59324a5d32f1bf2e31ed662ca97de9c6d42768c9501de0f323",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}

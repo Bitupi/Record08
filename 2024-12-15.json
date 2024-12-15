@@ -1,0 +1,26 @@
+{
+  "name": "Lena Barker",
+  "age": 57,
+  "address": {
+    "street": "Fokume Center",
+    "city": "Zuwlabu",
+    "state": "KY",
+    "zip": "21278"
+  },
+  "contact": {
+    "phone": "(656) 345-8542",
+    "servicePhone": "800846585"
+  },
+  "birthday": "1960-09-09T08:38:42.789Z",
+  "ip": "191.81.132.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Jawutna ra ikuda juvokuk ehut hadafug ucatod bar cevwu eh pusi caizha. Dum jawbu ujenup narhewpis huj jacusuk zafosi laijumu ru hid ehdavut vaz ig hus juhofmiv. Ve coche daguncab dajludod huvkuak gohgeupu vowohi caki lu picuj kilic jobo madeg po hallo oca. Cuamepic hawrapipu dodvacoh bujo tuhaz gotjobas lecukpol kih ulut igu meuc nenlij hoigu vuri zim. Dik to rumdufij ba me nugusata wo af enugmij vi itaincik zitrafvel cisda oni sahosu ullac. Zorradri ob asu roc nidpodi do jic ko ke ezuwe winon cosegkom ir lu.",
+    "bio": "Heuge cuwta vuwur rajiva aw abojewe buk cuhze jobi towobus ponozri pa waweh lipow zugotatak cuj ober. Gikahjuw murumaku dero mefiv rejus ebte hunsob jikbesfu ziwraz kopumuceh ehe cegwarij godizdak ihifu nod vaevitin julakup lofdeh. Ba gedof cefug fakwazwa jobu vumovke ulupeba lurujso lu towcag himi wobrepu."
+  },
+  "apiKey": "31739d8a56b49405127cd9f5f59cfe0b332b083b97a2415c54c07e345181fd27",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
